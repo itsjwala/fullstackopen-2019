@@ -13,3 +13,6 @@
 * [0.4](./part0/0.4.png)
 * [0.5](./part0/0.5.png)
 * [0.6](./part0/0.6.png)
+
+### Part 1
+* [1.1 - 1.5](./part1/courseinfo) :- 1a,1b 
